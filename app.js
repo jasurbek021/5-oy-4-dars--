@@ -5,6 +5,7 @@ function changeBackground(color) {
 
 document.getElementById("button1").addEventListener("click", function() {
     changeBackground("lightblue");
+    
 });
 
 document.getElementById("button2").addEventListener("click", function() {
